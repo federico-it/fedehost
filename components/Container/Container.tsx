@@ -115,7 +115,7 @@ export default function Container(props: any) {
                 Vps
               </a>
             </Link>
-            <Link href='https://forum.plexpy.com'>
+            <Link href='https://status.fedehost.xyz'>
               <a className='transition-all uppercase font-extrabold cursor-pointer hover:text-primary'>
                 status
               </a>

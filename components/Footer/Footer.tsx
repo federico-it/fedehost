@@ -4,7 +4,7 @@ export default function Footer() {
       Crafted with 💜 by
       <a
         className='ml-1 text-secondary hover:text-primary group'
-        href='https://www.federicomengascini.com'
+        href='https://fedehost.xyz'
         target='_blank'
         rel='noopener noreferrer'
       >
